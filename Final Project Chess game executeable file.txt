@@ -5,7 +5,7 @@ using namespace std;
 #include<math.h>
 #include<stdlib.h>
 #include<fstream>
-
+#include<vectors>
 //Player 1 Characters
 char pawn1='P',rook1='R',knight1='N',bishop1='B',queen1='Q',king1='K';
 //Player 2 Characters
